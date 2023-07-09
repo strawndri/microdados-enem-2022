@@ -18,7 +18,7 @@ Projeto desenvolvido com vistas a aprofundar os conhecimentos em Power BI e ling
 O projeto é um **dashboard** composto por três abas, que contemplam os seguintes temas: **nota geral**, **redação** e **ausências**, presentes a seguir:
 
 ![Dashboard sobre Microdados do ENEM 2022, imagem 1](https://i.imgur.com/3bCSD0N.png)
-![Dashboard sobre Microdados do ENEM 2022, imagem 2](https://i.imgur.com/EoUQjZO.png)
+![Dashboard sobre Microdados do ENEM 2022, imagem 2](https://i.imgur.com/QW5QfXy.png)
 ![Dashboard sobre Microdados do ENEM 2022, imagem 3](https://i.imgur.com/EjJ7RkA.png)
 
 ## Aprendizagens
