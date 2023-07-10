@@ -8,7 +8,7 @@
 - [Sobre o projeto](#sobre-o-projeto)
 - [Aprendizagens](#aprendizagens)
 - [Como acessar o projeto?](#como-acessar-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
 
 ## Sobre o projeto
@@ -32,7 +32,7 @@ O projeto é um **dashboard** composto por três abas, que contemplam os seguint
 Clicando no link abaixo, você irá o dashboard, que foi publicado na internet através do Power BI Online:
 * [Dashboard Microdados ENEM 2022](https://app.powerbi.com/view?r=eyJrIjoiNjg0NWUzZjEtYmI5OC00ZDIxLWFmYjEtODFlMjYwNjYwMjUxIiwidCI6IjA5OGU0MDQ1LWY4OWYtNDVhZC05YmQxLTQ0NWUxOTZkYTZlYSJ9&pageName=ReportSection7a8263db44e29d89ce8a)
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 * [Power BI](https://powerbi.microsoft.com/pt-br/): aplicativo gratuito para business intelligence (BI);
 * [Power Query](https://learn.microsoft.com/pt-br/power-query/power-query-what-is-power-query): ferramenta de preparação e transformação de dados
 * [DAX](https://learn.microsoft.com/pt-br/dax/): linguagem de fórmulas do Power BI  
