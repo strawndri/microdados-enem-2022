@@ -34,8 +34,8 @@ Clicando no link abaixo, você irá o dashboard, que foi publicado na internet a
 
 ## Tecnologias utilizadas
 * [Power BI](https://powerbi.microsoft.com/pt-br/): aplicativo gratuito para business intelligence (BI);
-* [Power Query](https://learn.microsoft.com/pt-br/power-query/power-query-what-is-power-query): ferramenta de preparação e transformação de dados
-* [DAX](https://learn.microsoft.com/pt-br/dax/): linguagem de fórmulas do Power BI  
+* [Power Query](https://learn.microsoft.com/pt-br/power-query/power-query-what-is-power-query): ferramenta de preparação e transformação de dados;
+* [DAX](https://learn.microsoft.com/pt-br/dax/): linguagem de fórmulas do Power BI;  
 * [Canva](https://www.canva.com/pt_br/): plataforma online para criação de design e estilização de recursos visuais;
 * [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel): software de planilhas eletrônicas.
 
